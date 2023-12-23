@@ -1645,11 +1645,6 @@
             "views": "0",
             "canplay": 1
         }
-    ],
-    "results_total": "137",
-    "results": 137,
-    "total_pages": 1
-},
-"msg": "OK",
-"status": 200
+    ]
+
 }
